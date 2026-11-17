@@ -1,0 +1,6 @@
+{
+  "name": "GeoPulse Maharashtra: AI Urban & Infrastructure Intelligence",
+  "description": "AI-Powered Urban Growth and Infrastructure Intelligence GIS Platform for Palghar District (Palghar, Virar, Vasai, Nalasopara, Boisar), Maharashtra, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
